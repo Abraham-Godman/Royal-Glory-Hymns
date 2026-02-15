@@ -1269,6 +1269,10 @@ body {
     overflow-y: auto; /* Allows scrolling inside the index if it's long */
 }
 
+.alphabetical-index{
+    color: white;
+    text-align: center;
+}
 
 /* --- 1. GLOBAL STYLES --- */
 html {
